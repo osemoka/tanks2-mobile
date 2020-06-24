@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="czolgi" tilewidth="32" tileheight="32" tilecount="264" columns="22">
+  <image source="Sprites/czolgi.png" width="704" height="384"/>
+  <tile id="23">
+   <objectgroup draworder="index">
+    <object id="0" x="0.181818" y="0.181818" width="32" height="31.8182"/>
+   </objectgroup>
+  </tile>
+  <tile id="46">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="32.1818" height="31.8182"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="Warstwa Kafelków 1" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxzY2BgkKAhdgNifShNK6w/aseoHaN2jNoxaseoHaN2jNoxiOwA0bRuXwEAYS2egQ==
+  </data>
+ </layer>
+</map>
