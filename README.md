@@ -6,7 +6,9 @@ Game developed in Unity Engine using many components. It was used as a student p
 
 Game features: 
 
--player unit tank 
+-player tank 
+
+-navigations touch buttons
 
 -enemy tank 
 
